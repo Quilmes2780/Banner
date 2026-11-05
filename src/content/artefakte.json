@@ -1,0 +1,12 @@
+[
+  { "id": "kampfbeil", "name": "Beil der Ersten Schlacht", "description": "+1 Angriff.", "effects": [{ "type": "stat", "stat": "attack", "value": 1 }] },
+  { "id": "turmschild", "name": "Rundschild aus Grauerz", "description": "+1 Verteidigung.", "effects": [{ "type": "stat", "stat": "defense", "value": 1 }] },
+  { "id": "glutstab", "name": "Stab der stillen Glut", "description": "+1 Magie.", "effects": [{ "type": "stat", "stat": "magic", "value": 1 }] },
+  { "id": "wanderstiefel", "name": "Stiefel der langen Straße", "description": "+1 Bewegung pro Woche.", "effects": [{ "type": "movement", "value": 1 }] },
+  { "id": "goldwaage", "name": "Goldwaage des Kämmerers", "description": "+1 Gold pro Woche.", "effects": [{ "type": "income", "resource": "gold", "value": 1 }] },
+  { "id": "steinmeissel", "name": "Meißel des Baumeisters", "description": "+1 Baustoff pro Woche.", "effects": [{ "type": "income", "resource": "material", "value": 1 }] },
+  { "id": "kristalllinse", "name": "Geschliffene Linse", "description": "+1 Kristall pro Woche.", "effects": [{ "type": "income", "resource": "crystal", "value": 1 }] },
+  { "id": "kriegshorn", "name": "Horn der Sammlung", "description": "Stufe-I-Stapel würfeln mit +1 Würfel.", "effects": [{ "type": "tierDice", "tier": 1, "value": 1 }] },
+  { "id": "bannerstange", "name": "Bannerstange der Veteranen", "description": "Stufe-III-Stapel würfeln mit +1 Würfel.", "effects": [{ "type": "tierDice", "tier": 3, "value": 1 }] },
+  { "id": "zauberband", "name": "Band der Doppelformel", "description": "1 zusätzlicher Zauber pro Kampf.", "effects": [{ "type": "extraSpell", "value": 1 }] }
+]

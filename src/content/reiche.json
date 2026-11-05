@@ -1,0 +1,14 @@
+[
+  { "id": "kronland", "name": "Kronland", "motto": "Stein hält, was Eide versprechen.", "ability": "Die Stadtmauer gibt zusätzlich +1 Verteidigung.", "color": "#2f6db3",
+    "effects": [{ "type": "wallDefense", "value": 1 }],
+    "creatures": ["landwehr", "armbruster", "falkenreiter", "kronritter"] },
+  { "id": "wildhain", "name": "Wildhain", "motto": "Jeder Pfad gehört dem, der ihn kennt.", "ability": "Wald kostet nur 1 Bewegung.", "color": "#3f8a3c",
+    "effects": [{ "type": "terrainCost", "terrain": "forest", "cost": 1 }],
+    "creatures": ["dornling", "waldschuetze", "hainrufer", "mooswyrm"] },
+  { "id": "aschenturm", "name": "Aschenturm", "motto": "Was brennt, lehrt.", "ability": "2 Zauber pro Kampf.", "color": "#c1492d",
+    "effects": [{ "type": "extraSpell", "value": 1 }],
+    "creatures": ["funkenwicht", "aschenseher", "glutschwinge", "flammenweber"] },
+  { "id": "knochenfeste", "name": "Knochenfeste", "motto": "Niemand dient kürzer als ein Lebender.", "ability": "Nach Siegen 1 Skelett je 3 besiegte Einheiten.", "color": "#6d5a94",
+    "effects": [{ "type": "skeletonRaise" }],
+    "creatures": ["skelett", "gruftschuetze", "beinkraehe", "grabfuerst"] }
+]

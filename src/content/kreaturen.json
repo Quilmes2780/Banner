@@ -1,0 +1,28 @@
+[
+  { "id": "landwehr", "name": "Landwehr", "realm": "kronland", "tier": 1, "abilities": [], "icon": "shield" },
+  { "id": "armbruster", "name": "Armbruster", "realm": "kronland", "tier": 2, "abilities": ["ranged"], "icon": "bow" },
+  { "id": "falkenreiter", "name": "Falkenreiter", "realm": "kronland", "tier": 3, "abilities": ["flying"], "icon": "wing" },
+  { "id": "kronritter", "name": "Kronritter", "realm": "kronland", "tier": 4, "abilities": ["fast"], "icon": "lance" },
+
+  { "id": "dornling", "name": "Dornling", "realm": "wildhain", "tier": 1, "abilities": [], "icon": "thorn" },
+  { "id": "waldschuetze", "name": "Waldschütze", "realm": "wildhain", "tier": 2, "abilities": ["ranged"], "icon": "bow" },
+  { "id": "hainrufer", "name": "Hainrufer", "realm": "wildhain", "tier": 3, "abilities": ["heal"], "icon": "leaf" },
+  { "id": "mooswyrm", "name": "Mooswyrm", "realm": "wildhain", "tier": 4, "abilities": ["flying"], "icon": "wing" },
+
+  { "id": "funkenwicht", "name": "Funkenwicht", "realm": "aschenturm", "tier": 1, "abilities": [], "icon": "spark" },
+  { "id": "aschenseher", "name": "Aschenseher", "realm": "aschenturm", "tier": 2, "abilities": ["ranged"], "icon": "eye" },
+  { "id": "glutschwinge", "name": "Glutschwinge", "realm": "aschenturm", "tier": 3, "abilities": ["flying"], "icon": "wing" },
+  { "id": "flammenweber", "name": "Flammenweber", "realm": "aschenturm", "tier": 4, "abilities": ["ranged"], "icon": "flame" },
+
+  { "id": "skelett", "name": "Skelett", "realm": "knochenfeste", "tier": 1, "abilities": [], "icon": "skull" },
+  { "id": "gruftschuetze", "name": "Gruftschütze", "realm": "knochenfeste", "tier": 2, "abilities": ["ranged"], "icon": "bow" },
+  { "id": "beinkraehe", "name": "Beinkrähe", "realm": "knochenfeste", "tier": 3, "abilities": ["flying"], "icon": "wing" },
+  { "id": "grabfuerst", "name": "Grabfürst", "realm": "knochenfeste", "tier": 4, "abilities": ["heal"], "icon": "crown" },
+
+  { "id": "raeuber", "name": "Wegelagerer", "realm": "neutral", "tier": 1, "abilities": [], "icon": "blade" },
+  { "id": "wildwolf", "name": "Grauwolf", "realm": "neutral", "tier": 2, "abilities": ["fast"], "icon": "fang" },
+  { "id": "sumpfschuetze", "name": "Sumpfschleuderer", "realm": "neutral", "tier": 2, "abilities": ["ranged"], "icon": "bow" },
+  { "id": "steinwaechter", "name": "Steinwächter", "realm": "neutral", "tier": 3, "abilities": [], "icon": "shield" },
+  { "id": "nachtschwinge", "name": "Nachtschwinge", "realm": "neutral", "tier": 3, "abilities": ["flying"], "icon": "wing" },
+  { "id": "uraltwache", "name": "Uraltwache", "realm": "neutral", "tier": 4, "abilities": [], "icon": "crown" }
+]

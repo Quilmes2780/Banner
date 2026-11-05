@@ -1,0 +1,12 @@
+[
+  { "id": "kampfkunst", "name": "Kampfkunst", "description": "+1 Angriff.", "effects": [{ "type": "stat", "stat": "attack", "value": 1 }] },
+  { "id": "wachsamkeit", "name": "Wachsamkeit", "description": "+1 Verteidigung.", "effects": [{ "type": "stat", "stat": "defense", "value": 1 }] },
+  { "id": "gelehrsamkeit", "name": "Gelehrsamkeit", "description": "+1 Magie.", "effects": [{ "type": "stat", "stat": "magic", "value": 1 }] },
+  { "id": "gewaltmarsch", "name": "Gewaltmarsch", "description": "+1 Bewegung pro Woche.", "effects": [{ "type": "movement", "value": 1 }] },
+  { "id": "bergfuehrer", "name": "Bergführer", "description": "Gebirge kostet 1 Bewegung.", "effects": [{ "type": "terrainCost", "terrain": "mountain", "cost": 1 }] },
+  { "id": "sumpfgaenger", "name": "Sumpfgänger", "description": "Sumpf kostet 1 Bewegung.", "effects": [{ "type": "terrainCost", "terrain": "swamp", "cost": 1 }] },
+  { "id": "steuereintreiber", "name": "Steuereintreiber", "description": "+1 Gold pro Woche.", "effects": [{ "type": "income", "resource": "gold", "value": 1 }] },
+  { "id": "plaenderer", "name": "Plünderer", "description": "+2 Gold nach jedem Sieg.", "effects": [{ "type": "victoryGold", "value": 2 }] },
+  { "id": "drill", "name": "Drill", "description": "Stufe-II-Stapel würfeln mit +1 Würfel.", "effects": [{ "type": "tierDice", "tier": 2, "value": 1 }] },
+  { "id": "scharfschuetzen", "name": "Scharfschützen", "description": "Kein Fernkampf-Malus in vorderer Linie.", "effects": [{ "type": "rangedNoPenalty" }] }
+]

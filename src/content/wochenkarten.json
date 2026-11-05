@@ -1,0 +1,14 @@
+[
+  { "id": "ruhige_woche", "name": "Ruhige Woche", "description": "Nichts Besonderes geschieht.", "effects": [{ "type": "none" }] },
+  { "id": "erntedank", "name": "Woche der Ernte", "description": "Beim nächsten Wochenwechsel +2 Gold für alle.", "effects": [{ "type": "income", "resource": "gold", "value": 2 }] },
+  { "id": "steinbruch", "name": "Woche der Steinmetze", "description": "Beim nächsten Wochenwechsel +1 Baustoff für alle.", "effects": [{ "type": "income", "resource": "material", "value": 1 }] },
+  { "id": "kometen", "name": "Woche des Kometen", "description": "Kristallminen bringen +1 Kristall.", "effects": [{ "type": "mineBonus", "resource": "crystal", "value": 1 }] },
+  { "id": "goldader", "name": "Woche der Goldader", "description": "Goldminen bringen +1 Gold.", "effects": [{ "type": "mineBonus", "resource": "gold", "value": 1 }] },
+  { "id": "trockene_wege", "name": "Trockene Wege", "description": "Sumpf kostet diese Woche 1 Bewegung.", "effects": [{ "type": "terrainCost", "terrain": "swamp", "cost": 1 }] },
+  { "id": "rueckenwind", "name": "Rückenwind", "description": "Alle Helden erhalten +1 Bewegung.", "effects": [{ "type": "movement", "value": 1 }] },
+  { "id": "fruchtbarkeit", "name": "Woche des Zulaufs", "description": "Stufe-I-Behausungen wachsen beim Wochenwechsel um +2.", "effects": [{ "type": "growth", "tier": 1, "value": 2 }] },
+  { "id": "werber", "name": "Woche der Werber", "description": "Einheiten der Stufe II kosten 1 Gold weniger.", "effects": [{ "type": "recruitDiscount", "tier": 2, "gold": 1 }] },
+  { "id": "bauherren", "name": "Woche der Baumeister", "description": "Gebäude kosten 2 Gold weniger.", "effects": [{ "type": "buildDiscount", "gold": 2 }] },
+  { "id": "fieber", "name": "Kampfesfieber", "description": "Stufe-I-Einheiten erhalten +1 Tempo.", "effects": [{ "type": "tempo", "tier": 1, "value": 1 }] },
+  { "id": "veteranen", "name": "Woche der Veteranen", "description": "Stufe-III-Behausungen wachsen beim Wochenwechsel um +1.", "effects": [{ "type": "growth", "tier": 3, "value": 1 }] }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "players": 2,
+    "games": 200,
+    "realmGames": {
+      "aschenturm": 84,
+      "kronland": 100,
+      "knochenfeste": 112,
+      "wildhain": 104
+    },
+    "realmWins": {
+      "kronland": 51,
+      "aschenturm": 39,
+      "knochenfeste": 53,
+      "wildhain": 57
+    },
+    "seatGames": [
+      200,
+      200
+    ],
+    "seatWins": [
+      103.5,
+      96.5
+    ],
+    "fame": {
+      "guardian": 2161,
+      "heroWin": 138,
+      "heartstone": 474,
+      "heart": 46,
+      "city": 1113,
+      "capturedCapital": 145,
+      "capitol": 42,
+      "mine": 1729,
+      "heroLevel": 870,
+      "artifact": 306,
+      "armyLevels": 1011
+    },
+    "fameTotal": 8035,
+    "winnerFame": 4910,
+    "playerGames": 400,
+    "conquest": 29,
+    "leaderKnown": 198,
+    "leaderWins": 118,
+    "leaderTies": 20,
+    "soloLeaders": 178,
+    "soloWins": 106,
+    "capitols": 14,
+    "heroWins": 46,
+    "mineCount": 1729,
+    "ms": 70690,
+    "actions": 42391,
+    "heartstone": 79,
+    "eliminated": 0
+  },
+  {
+    "players": 3,
+    "games": 200,
+    "realmGames": {
+      "kronland": 151,
+      "aschenturm": 155,
+      "wildhain": 140,
+      "knochenfeste": 154
+    },
+    "realmWins": {
+      "aschenturm": 49.166666666666664,
+      "kronland": 56.666666666666664,
+      "wildhain": 44.333333333333336,
+      "knochenfeste": 49.833333333333336
+    },
+    "seatGames": [
+      200,
+      200,
+      200
+    ],
+    "seatWins": [
+      67.66666666666666,
+      52.666666666666664,
+      79.66666666666666
+    ],
+    "fame": {
+      "guardian": 2637,
+      "heroWin": 501,
+      "heartstone": 546,
+      "heart": 58,
+      "city": 1551,
+      "capturedCapital": 415,
+      "capitol": 141,
+      "mine": 2276,
+      "heroLevel": 1114,
+      "artifact": 356,
+      "armyLevels": 1284
+    },
+    "fameTotal": 10879,
+    "winnerFame": 5392,
+    "playerGames": 600,
+    "conquest": 2,
+    "leaderKnown": 200,
+    "leaderWins": 113.83333333333333,
+    "leaderTies": 26,
+    "soloLeaders": 174,
+    "soloWins": 100.83333333333334,
+    "capitols": 47,
+    "heroWins": 167,
+    "mineCount": 2276,
+    "ms": 105489,
+    "actions": 63581,
+    "heartstone": 91,
+    "eliminated": 38
+  },
+  {
+    "players": 4,
+    "games": 200,
+    "realmGames": {
+      "knochenfeste": 200,
+      "aschenturm": 200,
+      "wildhain": 200,
+      "kronland": 200
+    },
+    "realmWins": {
+      "kronland": 54,
+      "knochenfeste": 58,
+      "wildhain": 42,
+      "aschenturm": 46
+    },
+    "seatGames": [
+      200,
+      200,
+      200,
+      200
+    ],
+    "seatWins": [
+      39,
+      60,
+      52.5,
+      48.5
+    ],
+    "fame": {
+      "guardian": 3012,
+      "heroWin": 648,
+      "heartstone": 486,
+      "heart": 42,
+      "city": 2076,
+      "capturedCapital": 540,
+      "capitol": 153,
+      "mine": 3203,
+      "heroLevel": 1340,
+      "artifact": 414,
+      "armyLevels": 1837
+    },
+    "fameTotal": 13751,
+    "winnerFame": 5302,
+    "playerGames": 800,
+    "conquest": 0,
+    "leaderKnown": 200,
+    "leaderWins": 93.16666666666667,
+    "leaderTies": 28,
+    "soloLeaders": 172,
+    "soloWins": 81,
+    "capitols": 51,
+    "heroWins": 216,
+    "mineCount": 3203,
+    "ms": 145522,
+    "actions": 82103,
+    "heartstone": 81,
+    "eliminated": 57
+  }
+]

@@ -1,0 +1,8 @@
+[
+  { "id": "lightning", "name": "Blitz", "level": 1, "kind": "lightning", "description": "Ein gegnerischer Stapel erleidet 2 + Magie Schaden." },
+  { "id": "bless", "name": "Segen", "level": 1, "kind": "bless", "description": "Ein eigener Stapel trifft in diesem Kampf um 1 besser." },
+  { "id": "haste", "name": "Hast", "level": 1, "kind": "haste", "description": "Ein eigener Stapel erhält in diesem Kampf +2 Tempo." },
+  { "id": "stoneskin", "name": "Steinhaut", "level": 1, "kind": "stoneskin", "description": "Gegner treffen einen eigenen Stapel in diesem Kampf um 1 schlechter." },
+  { "id": "fireball", "name": "Feuerball", "level": 2, "kind": "fireball", "description": "Jeder Gegner in einer Reihe erleidet 1 + Magie Schaden." },
+  { "id": "portal", "name": "Stadtportal", "level": 2, "kind": "portal", "description": "Der Held reist in eine eigene Stadt; einmal pro Woche, verbraucht die restliche Bewegung." }
+]

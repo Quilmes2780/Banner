@@ -1,0 +1,13 @@
+[
+  { "id": "bande", "name": "Wegelagererbande", "tier": 1, "army": [{ "creatureId": "raeuber", "count": 4 }] },
+  { "id": "rudel", "name": "Kleines Wolfsrudel", "tier": 1, "army": [{ "creatureId": "wildwolf", "count": 2 }] },
+  { "id": "vorposten", "name": "Räuberposten", "tier": 1, "army": [{ "creatureId": "raeuber", "count": 2 }, { "creatureId": "sumpfschuetze", "count": 1 }] },
+
+  { "id": "grossrudel", "name": "Grauwolfrudel", "tier": 2, "army": [{ "creatureId": "wildwolf", "count": 4 }, { "creatureId": "raeuber", "count": 3 }] },
+  { "id": "sumpfwacht", "name": "Sumpfwacht", "tier": 2, "army": [{ "creatureId": "raeuber", "count": 4 }, { "creatureId": "sumpfschuetze", "count": 3 }] },
+  { "id": "steinposten", "name": "Steinposten", "tier": 2, "army": [{ "creatureId": "steinwaechter", "count": 2 }, { "creatureId": "raeuber", "count": 3 }] },
+
+  { "id": "steinkreis", "name": "Steinkreis", "tier": 3, "army": [{ "creatureId": "steinwaechter", "count": 3 }, { "creatureId": "sumpfschuetze", "count": 4 }] },
+  { "id": "nachtschwarm", "name": "Nachtschwarm", "tier": 3, "army": [{ "creatureId": "nachtschwinge", "count": 3 }, { "creatureId": "wildwolf", "count": 4 }] },
+  { "id": "uraltposten", "name": "Uralter Posten", "tier": 3, "army": [{ "creatureId": "uraltwache", "count": 1 }, { "creatureId": "steinwaechter", "count": 2 }] }
+]

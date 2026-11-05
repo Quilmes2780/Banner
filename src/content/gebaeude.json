@@ -1,0 +1,12 @@
+[
+  { "id": "townhall", "name": "Rathaus", "description": "4 Gold pro Woche." },
+  { "id": "dwelling1", "name": "Behausung I", "description": "Wachstum 4 Einheiten der Stufe I pro Woche." },
+  { "id": "dwelling2", "name": "Behausung II", "description": "Wachstum 3 Einheiten der Stufe II pro Woche." },
+  { "id": "dwelling3", "name": "Behausung III", "description": "Wachstum 2 Einheiten der Stufe III pro Woche." },
+  { "id": "dwelling4", "name": "Behausung IV", "description": "Wachstum 1 Einheit der Stufe IV pro Woche." },
+  { "id": "market", "name": "Markt", "description": "Tausch von Ressourcen im Verhältnis 3:1." },
+  { "id": "guild", "name": "Magiergilde", "description": "Einmal pro Woche 2 Zauber ziehen, 1 behalten (Stufe 1)." },
+  { "id": "guildUpgrade", "name": "Gildenausbau", "description": "Die Magiergilde lehrt auch Zauber der Stufe 2.", "requires": "guild" },
+  { "id": "wall", "name": "Stadtmauer", "description": "+1 Verteidigung bei Belagerung; der Turm schießt 2 Würfel pro Runde." },
+  { "id": "capitol", "name": "Kapitol", "description": "8 Gold pro Woche statt 4; 3 Ruhm am Spielende.", "fame": true }
+]

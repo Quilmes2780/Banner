@@ -1,0 +1,21 @@
+[
+  { "id": "alda", "name": "Alda Wehrbrecht", "realm": "kronland", "attack": 1, "defense": 2, "magic": 0,
+    "specialty": { "name": "Schildwall", "description": "Stufe-I-Stapel würfeln mit +1 Würfel.", "effects": [{ "type": "tierDice", "tier": 1, "value": 1 }] } },
+  { "id": "bertram", "name": "Bertram vom Stein", "realm": "kronland", "attack": 2, "defense": 1, "magic": 0,
+    "specialty": { "name": "Beutemeister", "description": "+2 Gold nach jedem Sieg.", "effects": [{ "type": "victoryGold", "value": 2 }] } },
+
+  { "id": "liora", "name": "Liora Moosgrund", "realm": "wildhain", "attack": 1, "defense": 1, "magic": 1,
+    "specialty": { "name": "Fährtenleserin", "description": "Sumpf kostet nur 1 Bewegung.", "effects": [{ "type": "terrainCost", "terrain": "swamp", "cost": 1 }] } },
+  { "id": "tann", "name": "Tann Eibenhand", "realm": "wildhain", "attack": 2, "defense": 1, "magic": 0,
+    "specialty": { "name": "Meisterschütze", "description": "Fernkämpfer erleiden keinen Malus in vorderer Linie.", "effects": [{ "type": "rangedNoPenalty" }] } },
+
+  { "id": "serafin", "name": "Serafin Glutauge", "realm": "aschenturm", "attack": 1, "defense": 1, "magic": 1,
+    "specialty": { "name": "Funkenschlag", "description": "+1 Magie.", "effects": [{ "type": "stat", "stat": "magic", "value": 1 }] } },
+  { "id": "mirel", "name": "Mirel Rauchwind", "realm": "aschenturm", "attack": 1, "defense": 1, "magic": 1,
+    "specialty": { "name": "Lernbegierig", "description": "+1 Erfahrung bei jedem Erfahrungsgewinn.", "effects": [{ "type": "xpBonus", "value": 1 }] } },
+
+  { "id": "gerulf", "name": "Gerulf Bleichhand", "realm": "knochenfeste", "attack": 2, "defense": 1, "magic": 0,
+    "specialty": { "name": "Knochenzoll", "description": "+1 Baustoff pro Woche.", "effects": [{ "type": "income", "resource": "material", "value": 1 }] } },
+  { "id": "nehra", "name": "Nehra Stillgrab", "realm": "knochenfeste", "attack": 1, "defense": 1, "magic": 1,
+    "specialty": { "name": "Tributeintreiberin", "description": "+1 Gold pro Woche.", "effects": [{ "type": "income", "resource": "gold", "value": 1 }] } }
+]
